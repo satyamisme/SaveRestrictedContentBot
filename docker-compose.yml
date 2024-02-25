@@ -6,9 +6,9 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID: # Your API HASH from my.telegram.org
-      API_HASH: # Your API ID from my.telegram.org
-      BOT_TOKEN: # Bot token, get it from @BotFather 
-      SESSION: # Pyrogram string session
-      AUTH: # User ID of Bot owner
-      FORCESUB: # Username name of public channel without using '@'
+      API_ID: 19987622
+      API_HASH: 00d42b460cef01c13d97dad1f417194e
+      BOT_TOKEN: 5587381762:AAFn1SttATDWuuPlEqFslZx9aeKaEZC0YbU 
+      SESSION: 1BJWap1wBu5KWrxctz4gbjH25M15yPlyZQ_ckSJXR3IZD4sYPrZv6qbjcsvuHN2jQ8stxk8ZZ2yt-bxsUCm83QByHT_RjmKA7FClGg0tK9bG04s6D0IRFnjV0sSOmS6rrYfQm-Tu1ENx7k8ObxiFIGRBAcyfbKc2WXW-t4R4axNZ8WTk3_8d9L4lchuYL3cZTPHY_JtQTYhxxi9HMtB75SLgAYOqlUPpNLCsIbUmV2HzWktWwMgPqbhKml2fvQjV4QiQ0xyBjyGfrYdUPuB3VLxFgJP_wxzi6Q114RIVUB9zLgwbUGBMt3fxs4tMgIkRRZ3m2KXFeW16FdeRQexjMGrSgTq5ctJ0=
+      AUTH: @satyamisme
+      FORCESUB: Movies_broadcast_delete@Genesis
